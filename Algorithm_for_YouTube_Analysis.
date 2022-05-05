@@ -1,0 +1,11 @@
+We have implemented the analysis using python programming language and Jupyter notebooks.
+We have used many libraries available for data visualization, data scraping, analysis in python.
+Use of data visualization has lead to creation of data plots or diagrams which can lead to better analysis of trends in pictorial form
+List of libraries used: 
+Pandas
+NumPy
+Matplotlib
+Seaborn 
+Bokeh
+Outliers
+Jupyter Notebooks is a client-server application used for running notebook documents in browser.
